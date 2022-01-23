@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 
 
 Here are somethings about me:
@@ -10,9 +10,11 @@ Here are somethings about me:
 - 🌱 I’m currently learning Artific Artificial intelligence
 
 
+Social Media:
+
+- https://www.facebook.com/juanesoftwaredv
+
+- https://www.instagram.com/juanesoftwaredv
 
 
 
-
-
--->
