@@ -28,5 +28,8 @@ Social Media:
 - juanestebanlopez.softwaredev@gmail.com
 - je.lopez@misena.edu.co
 
++ LinkedIn:
+- https://www.linkedin.com/in/juanesoftwaredv/
+
 
 
