@@ -12,9 +12,15 @@ Here are somethings about me:
 
 Social Media:
 
-- https://www.facebook.com/juanesoftwaredv
++ FACEBOOK:
+- https://web.facebook.com/ELCODIGOSTEVE2.0/
 
-- https://www.instagram.com/juanesoftwaredv
++ INSTAGRAM:
+- https://www.instagram.com/elcodigosteve/
+
++ TWITTER:
+- https://twitter.com/elcodigosteve
+- @elcodigosteve
 
 
 
