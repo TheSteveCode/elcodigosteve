@@ -31,5 +31,8 @@ Social Media:
 + LinkedIn:
 - https://www.linkedin.com/in/juanesoftwaredv/
 
++ www.talentpitch.co
+- https://www.talentpitch.co/user/juan-esteban-lopez-carabali
+
 
 
