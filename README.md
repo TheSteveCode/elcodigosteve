@@ -22,5 +22,11 @@ Social Media:
 - https://twitter.com/elcodigosteve
 - @elcodigosteve
 
++ EMAIL:
+- elcodigosteve@gmail.com
+
+- juanestebanlopez.softwaredev@gmail.com
+- je.lopez@misena.edu.co
+
 
 
